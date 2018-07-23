@@ -1,0 +1,9 @@
+class test {
+	public static void main(String[] args){
+		int count=0;
+		while(count=count++<10){
+			System.out.println("i am batman"+count);
+		}
+		System.out.println(count);
+	}
+}
